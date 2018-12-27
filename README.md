@@ -11,7 +11,7 @@
 </article>
 
 <body>
-  <h1>Sheep-Sling</h1>
+  <h1>Description</h1>
   <p>
     "Sheep-Sling"은 나쁜 늑대에게 빼앗긴 양들을 다시 찾아오기 위한 양치기와 검은 양의 모험을 담은
     이야기 입니다. 현재 대구 VR카페들에 유통되거나 Steam에 판매가 되고 있습니다.
