@@ -18,6 +18,12 @@
   
     작성자는 현 프로젝트에서 프론트엔드 개발위주로 개발을 하였습니다.
     
+    <ol>
+    <li>VIVE 연동<br>
+    - 컨트롤러를 통한 상호작용 적용 (WandController.cs)
+    
+    <li>
+    </ol>
     1.VIVE 연동
     - 컨트롤러를 통한 상호작용 적용 (WandController.cs)
 
