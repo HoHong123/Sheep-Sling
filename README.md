@@ -16,14 +16,14 @@
     "Sheep-Sling"은 나쁜 늑대에게 빼앗긴 양들을 다시 찾아오기 위한 양치기와 검은 양의 모험을 담은
     이야기 입니다. 현재 대구 VR카페들에 유통되거나 Steam에 판매가 되고 있습니다.
   
+  <ol>
+  <li>VIVE 연동<br>
+  - 컨트롤러를 통한 상호작용 적용 (WandController.cs)
+
+  </li>
+  </ol>
     작성자는 현 프로젝트에서 프론트엔드 개발위주로 개발을 하였습니다.
     
-    <ol>
-    <li>VIVE 연동<br>
-    - 컨트롤러를 통한 상호작용 적용 (WandController.cs)
-    
-    <li>
-    </ol>
     1.VIVE 연동
     - 컨트롤러를 통한 상호작용 적용 (WandController.cs)
 
