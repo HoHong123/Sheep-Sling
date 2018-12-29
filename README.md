@@ -47,8 +47,7 @@
     </ol>
   
   <h2>소개영상</h2>
-  [SheepSlings](https://youtu.be/PqYqHF7BVpo)
-  [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)]
-  (https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+  [![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+
   </section>
 </body>
