@@ -47,6 +47,6 @@
     </ol>
   
   <h2>소개영상</h2>
-  <iframe src="https://youtu.be/PqYqHF7BVpo" width="70%" frameborder="0" allowfullscreen></iframe>
+  [SheepSlings](https://youtu.be/PqYqHF7BVpo)
   </section>
 </body>
