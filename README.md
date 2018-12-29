@@ -12,7 +12,7 @@
 
 <body>
   <section>
-    <h1>Description</h1>
+    <h1>요약</h1>
     <p>
       "Sheep-Sling"은 나쁜 늑대에게 빼앗긴 양들을 다시 찾아오기 위한 양치기와 검은 양의 모험을 담은 이야기 입니다.<br>
       플레이어의 목표는 수레에 있는 거대한 새총을 활용하여 검은 양을 발사해 양들이 잡혀있는 철장의 열쇠를 찾도록 하는 것입니다.<br><br>    
@@ -22,9 +22,11 @@
   </section>
   
   <section>
+  <h2>역할</h2>
     <ol>
       <li>VIVE 연동<br>
-      - 컨트롤러를 통한 상호작용 적용 (WandController.cs)
+      - 컨트롤러를 통한 상호작용 적용 (WandController.cs)<br>
+      <img src="image/playerview.PNG" width="80%" alt="image/playerview.png">
       </li>
       <li>결과창 제작<br>
       - 남은 시간에 비례한 점수/구출한 양의 점수/속도에 따른 충돌로 발생하는 점수 등
