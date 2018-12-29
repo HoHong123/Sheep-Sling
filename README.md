@@ -45,5 +45,10 @@
       - 간단한 3D 모델 모델링<br>
       </li>
     </ol>
+  
+  <h2>소개영상</h2>
+  <video controls src="https://store.steampowered.com/app/918440/SHEEP_SLING/">
+    Your user agent does not support the HTML5 Video element.
+  </video>
   </section>
 </body>
