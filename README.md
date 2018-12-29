@@ -47,9 +47,6 @@
     </ol>
   
   <h2>소개영상</h2>
-  <video controls src="https://youtu.be/PqYqHF7BVpo">
-    Your user agent does not support the HTML5 Video element.
-  </video>
   <iframe src="https://youtu.be/PqYqHF7BVpo" width="70%" frameborder="0" allowfullscreen></iframe>
   </section>
 </body>
