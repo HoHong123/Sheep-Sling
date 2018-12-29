@@ -44,11 +44,9 @@
       - 각종 파티클 시스템에 필요한 텍스쳐 및 머테리얼 제작<br>
       - 간단한 3D 모델 모델링<br>
       </li>
-    </ol>
+  </ol>
+  </section>
   
   <h2>소개영상</h2>
-  </section>
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s) 
 </body>
-
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s) 
+[![Sheep Slings]("image/logo.png")](https://www.youtube.com/watch?v=PqYqHF7BVpo&t=1s) 
