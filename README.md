@@ -31,7 +31,7 @@
       <li><b>결과창 제작</b><br>
       - 남은 시간에 비례한 점수/구출한 양의 점수/속도에 따른 충돌로 발생하는 점수 등<br>
       - 각 점수를 종합하여 일정시간 안에 어느정도 표시해주는 점수판 구현 (Script\Score_Board\_Score_Change.cs, Script\Score_Board\_Clear_Manager.cs)<br>
-      <img src="image/clear.png" width="50%" alt="image/clear.png">
+      <img src="image/clear.jpg" width="50%" alt="image/clear.png">
       </li>
       <li><b>각 맵 및 레벨디자인</b><br>
       - 각종 맵에 필요한 퍼즐요소를 위한 간단한 스크립트<br>
