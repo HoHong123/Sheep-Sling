@@ -47,7 +47,7 @@
     </ol>
   
   <h2>소개영상</h2>
-  <video controls src="https://store.steampowered.com/app/918440/SHEEP_SLING/">
+  <video controls src="https://youtu.be/PqYqHF7BVpo">
     Your user agent does not support the HTML5 Video element.
   </video>
   </section>
