@@ -50,10 +50,6 @@
   <video controls src="https://youtu.be/PqYqHF7BVpo">
     Your user agent does not support the HTML5 Video element.
   </video>
-  <video controls> 
-    <source src="https://youtu.be/PqYqHF7BVpo" type='video/mp4; codecs="avc1, mp4a"'> 
-    <source src="https://youtu.be/PqYqHF7BVpo" type='video/ogg; codecs="theora, vorbis"'> 
-    <p>Your user agent does not support the HTML5 Video element.</p> 
-  </video>
+  <iframe src="https://youtu.be/PqYqHF7BVpo" width="70%" frameborder="0" allowfullscreen></iframe>
   </section>
 </body>
