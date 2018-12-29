@@ -5,7 +5,7 @@
 #Team Member : 1 Game Designer, 3 Programmer<br>
 #Develop Period : 2017/10/21~2018/06/26<br>
 #Publish : 2018/09/27<br>
-#Platform : PC and Mac<br>
+#Platform : PC<br>
 #Genre : 3D VR Shooting Puzzle Game<br>
 #Link : https://store.steampowered.com/app/918440/SHEEP_SLING/<br>
 </article>
