@@ -49,4 +49,4 @@
   
   <h2>소개영상</h2>
 </body>
-[![Sheep Slings](http://img.youtube.com/vi/PqYqHF7BVpo&t/0.jpg)](https://www.youtube.com/watch?v=PqYqHF7BVpo&t) 
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
