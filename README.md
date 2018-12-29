@@ -31,17 +31,18 @@
       <li><b>결과창 제작</b><br>
       - 남은 시간에 비례한 점수/구출한 양의 점수/속도에 따른 충돌로 발생하는 점수 등<br>
       - 각 점수를 종합하여 일정시간 안에 어느정도 표시해주는 점수판 구현 (Script\Score_Board\_Score_Change.cs, Script\Score_Board\_Clear_Manager.cs)<br>
-      <img src="image/playerview.PNG" width="80%" alt="image/playerview.png">
+      <img src="image/clear.png" width="50%" alt="image/clear.png">
       </li>
       <li><b>각 맵 및 레벨디자인</b><br>
       - 각종 맵에 필요한 퍼즐요소를 위한 간단한 스크립트<br>
       - 에셋을 활용한 맵 디자인 및레벨 디자인<br>
-      <img src="image/playerview.PNG" width="80%" alt="image/playerview.png">
+      <img src="image/stage1.png" width="50%" alt="image/stage1.png">
+      <img src="image/stage8.png" width="50%" alt="image/stage8.png">
+      <img src="image/stage11.png" width="50%" alt="image/stage11.png">
       </li>
       <li><b>시각적 효과 생성</b><br>
       - 각종 파티클 시스템에 필요한 텍스쳐 및 머테리얼 제작<br>
       - 간단한 3D 모델 모델링<br>
-      <img src="image/playerview.PNG" width="80%" alt="image/playerview.png">
       </li>
     </ol>
   </section>
