@@ -6,6 +6,14 @@ using UnityEngine.UI;
 
 public class _Score_Changer : MonoBehaviour {
 
+    /*
+      !. 생각 단계
+      - 각 UI에 할당할 점수를 받는 변수 선언
+      - 각 UI는 슬라이더로 지정된 시간 안에 시각적으로 표현되도록 하기
+      - 슬라이드 변화 중 필요에 따라 시각적 프리팹 객체 생성
+      - 결과를 다 보여주면 클리어 여부에 따라 재시작/메뉴 버튼 혹은 다음 스테이지로 넘어가도록 변수 값 
+    */
+    
     public _Clear_Manager C_Manager;
     public _Sheep_Manager S_Manager;
     
@@ -66,7 +74,6 @@ public class _Score_Changer : MonoBehaviour {
     // 아래 함수 발동시 연산 시작
     public void ScoreOn(ref int Time)
     {
-        // 모든 변수 초기화
         next = score = starCounter = 0;
         lerp = scaleOverTime = 0.0f;
 
@@ -82,10 +89,7 @@ public class _Score_Changer : MonoBehaviour {
 
         if (numberOfUsedSheep > maxNumberOfSheep)
             numberOfUsedSheep = maxNumberOfSheep;
-
-        //remainNumberOfSheep = 1;
-        //numberOfUsedSheep = 9;
-
+        
         time = Time; // 시간
         timeScore = Time * 100; // 시간을 점수로 변환
 
