@@ -117,7 +117,7 @@ public class _Score_Changer : MonoBehaviour {
         
         switch (next)
         {
-            case 0: // 남은 수
+            case 0: // 남은 양의 수에 비례 UI로 표현하는 
 
                 ScoreOverTime(remainNumberOfSheepScore);
                 SheepOverTime(numberOfUsedSheep);
@@ -133,7 +133,7 @@ public class _Score_Changer : MonoBehaviour {
                 }
 
                 break;
-            case 1: // 시간 수
+            case 1: // 남은 시간을 점수 UI로 표현하는 케이스
 
                 ScoreOverTime(timeScore, 0);
 
@@ -148,7 +148,7 @@ public class _Score_Changer : MonoBehaviour {
                 }
 
                 break;
-            case 2: // 별 수
+            case 2: // 스케이지 클리어 후 출력할 별의 수만큼 출력하는 
 
                 if(finalScore > score + scaleOverTime) // 현재 계산 중인 점수가 최종 점수보다 낮으면 실행
                 {
