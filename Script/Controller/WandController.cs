@@ -52,6 +52,8 @@ public class WandController : MonoBehaviour
         upButtonPressed = controller.GetPress(upButton);
         downButtonPressed = controller.GetPress(downButton);
 
+        /// 높낮이 변경 조건문
+        /// y값이 최대/최소 높이 이상/이하이면 정지
         if (upButtonPressed == true)
         {
             if (slingShot.transform.localPosition.y >= y + maxHeight)
